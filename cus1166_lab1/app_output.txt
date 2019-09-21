@@ -1,0 +1,11 @@
+Tim = 88
+Jam = 74
+Steve = 100
+Ray = 85
+Charlie = 86
+Angela = 70
+Lidia = 60
+Rose = 90
+Navi = 78
+Larry = 0
+The average grade is 73.1
